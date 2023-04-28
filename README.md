@@ -11,4 +11,4 @@ Each review was then manually inputted into [ChatGPT](https://chat.openai.com/) 
 * `Prompt`- This is the text which was used as the input into ChatGPT.
 * `Simplified`- This is the output from ChatGPT.
 
-A number of tests were completed on this data such as sentiment analysis to check the reviews kept the same meaning and classification of thje reviews into one of the two protected characteristics (UK or US). Further Work is also outlined in the paper.
+A number of tests were completed on this data such as sentiment analysis to check the reviews kept the same meaning and classification of the reviews into one of the two protected characteristics (UK or US). Further Work is also outlined in the paper.
