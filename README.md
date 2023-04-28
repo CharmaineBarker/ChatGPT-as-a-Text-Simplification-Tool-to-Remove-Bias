@@ -1,4 +1,4 @@
-# ChatGPT as a text simplification tool to remove bias
+# ChatGPT as a Text Simplification Tool to Remove Bias
 The work for a paper submitted to Yorkshire Innovation in Science and Engineering Conference 2023 generated a [dataset of Disneyland reviews](https://github.com/CharmaineBarker/ChatGPT-A-text-simplification-tool-as-an-application-for-removing-bias/blob/main/disneyReviewsSimplified.csv) which is released here.
 
 The sample of 300 reviews was taken from a Kaggle dataset: [Disneyland Reviews](https://www.kaggle.com/datasets/arushchillar/disneyland-reviews)
